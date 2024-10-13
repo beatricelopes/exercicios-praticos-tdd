@@ -1,6 +1,8 @@
+package exercicio1;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.Test;
-import com.example.Triangulo;
+
+import com.example.exercicio1.Triangulo;
 
 public class TrianguloTest {
     // Teste para triângulo escaleno válido

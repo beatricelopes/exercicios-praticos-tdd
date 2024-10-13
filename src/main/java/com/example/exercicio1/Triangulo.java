@@ -1,4 +1,4 @@
-package com.example;
+package com.example.exercicio1;
 
 public class Triangulo {
      public static String tipoTriangulo(int lado1, int lado2, int lado3) {
